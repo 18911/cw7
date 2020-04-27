@@ -1,0 +1,16 @@
+requestsLog: 
+/api/enrollments
+GET
+
+requestsLog: 
+/favicon.ico
+GET
+
+requestsLog: 
+/api/enrollments
+GET
+
+{
+"Studies": "Computer Science",
+"Semester": 5
+}
